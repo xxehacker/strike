@@ -1,5 +1,5 @@
 <div style="width:100%;height:0;padding-bottom:45%;position:relative;">
-<img src="https://github.com/SecureAxom/strike/blob/main/strike1.png" href="https://github.com/secureaxom/strike" alt="Ipinfo"  width="100%" height="100%"/><br> 
+<img src="https://github.com/SecureAxom/strike/blob/main/strike1.png" href="https://github.com/secureaxom/strike" alt="Ipinfo"  width="100%" /><br> 
  </div>
 <hr>
 <h1> Strike </h1>
@@ -49,7 +49,7 @@ VULNERABILITIES :  ['CVE-2010-0408', 'CVE-2016-4975', 'CVE-2012-0053', 'CVE-2007
  
 <h1> Screen Shot </h1>
  
-<img src="https://github.com/SecureAxom/strike/blob/main/strike.png" href="https://github.com/secureaxom/strike" alt="Strike" width="80%" > 
+<img src="https://github.com/SecureAxom/strike/blob/main/strike.png" href="https://github.com/secureaxom/strike" alt="Strike" width="100%" > 
 <hr>  
   
  <h1> License </h1>
