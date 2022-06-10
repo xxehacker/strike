@@ -1,3 +1,7 @@
+<div style="width:100%;height:0;padding-bottom:45%;position:relative;">
+<img src="https://github.com/SecureAxom/strike/blob/main/strike1.png" href="https://github.com/secureaxom/strike" alt="Ipinfo"  width="100%" height="100%"/><br> 
+ </div>
+<hr>
 <h1> Strike </h1>
 <p> A python tool to quickly analyze all IPs and see which ones have open ports and vulnerabilities </p>
 <hr>
