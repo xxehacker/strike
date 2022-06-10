@@ -49,7 +49,7 @@ VULNERABILITIES :  ['CVE-2010-0408', 'CVE-2016-4975', 'CVE-2012-0053', 'CVE-2007
  
 <h1> Screen Shot </h1>
  
-<img scr="https://github.com/SecureAxom/strike/blob/main/strike.png" href="https://github.com/secureaxom/strike" alt="Strike" width="80%" > 
+<img src="https://github.com/SecureAxom/strike/blob/main/strike.png" href="https://github.com/secureaxom/strike" alt="Strike" width="80%" > 
 <hr>  
   
  <h1> License </h1>
